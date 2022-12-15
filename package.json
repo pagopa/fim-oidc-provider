@@ -4,7 +4,7 @@
   "description": "Provider implementing the OIDC protocol for the FIM project",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@pagopa/eslint-config": "^1.3.1",
